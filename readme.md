@@ -1,0 +1,1 @@
+This is page made to practice the assignment of freeCodeCamp
